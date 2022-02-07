@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361242166069",
+    "firebase_url": "https://training-309ea-default-rtdb.firebaseio.com",
+    "project_id": "training-309ea",
+    "storage_bucket": "training-309ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361242166069:android:f5657179e4ad559a79427c",
+        "android_client_info": {
+          "package_name": "com.aaddev.my_loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361242166069-fd2ikgsgogkb5tgl2r5ha4alhpnu5pui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aaddev.my_loc",
+            "certificate_hash": "a59750396730747fe7cd2068cc22f2e3f4dcaecf"
+          }
+        },
+        {
+          "client_id": "361242166069-gjg24nbe8jmr2984osgrs5kmll5bcom7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjcICVV7QpUPli_XhaqlgvJnUPpQs5IVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361242166069-gjg24nbe8jmr2984osgrs5kmll5bcom7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
